@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+tensorflow
+tensorflow-datasets
+opencv-python
+pillow
+imutils
+requests
